@@ -27,8 +27,8 @@ function App() {
   return (
     <ProSidebarProvider>
       <div className='ViewPort'>
-        {/* <NavigationBar></NavigationBar> */}
-        <Sidebar></Sidebar>
+        <NavigationBar></NavigationBar>
+        {/* <Sidebar></Sidebar> */}
         <div className="App" id="outer-container">
           <div id="page-wrap">
 
