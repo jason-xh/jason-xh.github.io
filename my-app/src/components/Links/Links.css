@@ -1,0 +1,40 @@
+.links-wrapper {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 25px;
+    margin-top: 60px;
+    margin-bottom: 50px;
+    /* align-content: center; */
+    /* text-align: center; */
+    /* background-color: rgb(202, 202, 202); */
+}
+
+.link-btn {
+    display: flex;
+    color: blue;
+    /* scale: 0.5; */
+}
+
+.band-expand-link {
+    color: blue;
+    cursor: pointer;
+    text-decoration: underline;
+}
+
+.band-links-wrapper {
+    display: flex;
+    flex-direction: column;
+    gap: 5px;
+    margin-left: 100px;
+}
+
+.band-link {
+    color: blue;
+    cursor: pointer;
+    text-decoration: underline;
+}
+
+.test-links {
+    display: inline;
+}

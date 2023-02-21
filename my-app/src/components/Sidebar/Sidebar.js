@@ -1,7 +1,6 @@
 import React from 'react';
 import './Sidebar.css';
 // import { Sidebar, Menu, MenuItem, SubMenu, useProSidebar, sidebarClasses } from 'react-pro-sidebar';
-import { Link } from 'react-router-dom';
 import Nav from 'react-bootstrap/Nav';
 
 
