@@ -1,16 +1,19 @@
 {
-  "files": {
-    "main.css": "/static/css/main.5c357c87.css",
-    "main.js": "/static/js/main.577edeb8.js",
-    "static/js/787.28cb0dcd.chunk.js": "/static/js/787.28cb0dcd.chunk.js",
-    "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/index.html",
-    "main.5c357c87.css.map": "/static/css/main.5c357c87.css.map",
-    "main.577edeb8.js.map": "/static/js/main.577edeb8.js.map",
-    "787.28cb0dcd.chunk.js.map": "/static/js/787.28cb0dcd.chunk.js.map"
-  },
-  "entrypoints": [
-    "static/css/main.5c357c87.css",
-    "static/js/main.577edeb8.js"
-  ]
+  "main.css": "/static/css/main.465b9ef3.chunk.css",
+  "main.js": "/static/js/main.dfd7e664.chunk.js",
+  "main.js.map": "/static/js/main.dfd7e664.chunk.js.map",
+  "static/js/1.72de945a.chunk.js": "/static/js/1.72de945a.chunk.js",
+  "static/js/1.72de945a.chunk.js.map": "/static/js/1.72de945a.chunk.js.map",
+  "static/js/2.e2ccc5eb.chunk.js": "/static/js/2.e2ccc5eb.chunk.js",
+  "static/js/2.e2ccc5eb.chunk.js.map": "/static/js/2.e2ccc5eb.chunk.js.map",
+  "runtime~main.js": "/static/js/runtime~main.10037821.js",
+  "runtime~main.js.map": "/static/js/runtime~main.10037821.js.map",
+  "static/media/steam.gif": "/static/media/steam.0174b8d1.gif",
+  "static/media/kingdomhearts.gif": "/static/media/kingdomhearts.1327ea48.gif",
+  "static/media/banner.gif": "/static/media/banner.afaac443.gif",
+  "static/media/logo.svg": "/static/media/logo.06e73328.svg",
+  "static/css/main.465b9ef3.chunk.css.map": "/static/css/main.465b9ef3.chunk.css.map",
+  "index.html": "/index.html",
+  "precache-manifest.c838e75360457c6b0631367ba1c31b82.js": "/precache-manifest.c838e75360457c6b0631367ba1c31b82.js",
+  "service-worker.js": "/service-worker.js"
 }
