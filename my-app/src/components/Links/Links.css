@@ -21,6 +21,11 @@
     cursor: pointer;
     text-decoration: underline;
 }
+.dj-expand-link {
+    color: blue;
+    cursor: pointer;
+    text-decoration: underline;
+}
 
 .band-links-wrapper {
     display: flex;
@@ -28,8 +33,19 @@
     gap: 5px;
     margin-left: 100px;
 }
+.dj-links-wrapper {
+    display: flex;
+    flex-direction: column;
+    gap: 5px;
+    margin-left: 100px;
+}
 
 .band-link {
+    color: blue;
+    cursor: pointer;
+    text-decoration: underline;
+}
+.dj-link {
     color: blue;
     cursor: pointer;
     text-decoration: underline;
