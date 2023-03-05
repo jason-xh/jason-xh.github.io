@@ -1,6 +1,6 @@
 import React from 'react';
 import { Link, Outlet } from 'react-router-dom';
-import Navigation from '../Navigation';
+import NavigationBar from '../NavigationBar/NavigationBar';
 import Production from './Production/Production';
 
 import './Music.css';
@@ -8,7 +8,7 @@ import './Music.css';
 export default function Music() {
     return (
         <div className='Music'>
-            <Navigation/>
+            <NavigationBar/>
             <h2>Music</h2>
             <h2>Test</h2>
             <h3>Production</h3>
