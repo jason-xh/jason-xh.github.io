@@ -29,8 +29,9 @@ export default function Links() {
                 <p>{(djDisplay) == 'none' ? "▶" : "▼"} dj mixes</p>
             </a>
             <div className="dj-links-wrapper" style={{display: djDisplay}}>
-                <a href="https://soundcloud.com/user-417328483/whiplash-mix-live-at-dazcon-2023" target="_blank" className='dj-link'>whiplash mix (live at dazcon 2023)</a>
-                <a href="https://soundcloud.com/user-417328483/fever-dream" target="_blank" className='dj-link'>fever dream mix</a>
+                <a href="https://soundcloud.com/xhmusic2/dvj-debut-live-at-x_360_noscope_420_x" target="_blank" className='dj-link'>DvJ debut mix (live at x_360_NOSCOPE_420_X)</a>
+                <a href="https://soundcloud.com/xhmusic2/whiplash-mix-live-at-dazcon-2023" target="_blank" className='dj-link'>whiplash mix (live at dazcon 2023)</a>
+                <a href="https://soundcloud.com/xhmusic2/fever-dream" target="_blank" className='dj-link'>fever dream mix</a>
             </div>
             <a href="https://www.instagram.com/87.prelude/" target="_blank" className="link-btn">
                 <p>my shitty car</p>
