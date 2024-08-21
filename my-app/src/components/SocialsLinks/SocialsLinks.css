@@ -19,7 +19,11 @@
     /* scale: 0.7; */
 }
 
+.socials-link-text {
+    color: rgb(22, 29, 255);
+}
+
 a:visited { 
     text-decoration: none; 
-    color: rgb(0, 0, 255); 
+    color: rgb(22, 29, 255);
    }

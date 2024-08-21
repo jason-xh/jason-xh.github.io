@@ -12,17 +12,17 @@
 
 .link-btn {
     display: flex;
-    color: blue;
+    color: rgb(22, 29, 255);
     /* scale: 0.5; */
 }
 
 .band-expand-link {
-    color: blue;
+    color: rgb(22, 29, 255);
     cursor: pointer;
     text-decoration: underline;
 }
 .dj-expand-link {
-    color: blue;
+    color: rgb(22, 29, 255);
     cursor: pointer;
     text-decoration: underline;
 }
@@ -41,12 +41,12 @@
 }
 
 .band-link {
-    color: blue;
+    color: rgb(22, 29, 255);
     cursor: pointer;
     text-decoration: underline;
 }
 .dj-link {
-    color: blue;
+    color: rgb(22, 29, 255);
     cursor: pointer;
     text-decoration: underline;
 }
