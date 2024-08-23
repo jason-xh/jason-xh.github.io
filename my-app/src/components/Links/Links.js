@@ -35,7 +35,7 @@ export default function Links() {
             <div className="band-links-wrapper" style={{display: wgDisplay}}>
                 <a href="https://www.instagram.com/wasabigalaxyband/" target="_blank" className='band-link'>band instagram</a>
                 <a href="https://events.humanitix.com/spooktember" target="_blank" className='band-link'>animesydney spooktember 13/9 @ unsw roundhouse</a>
-                <a href="https://lazyboneslounge.com.au/" target="_blank" className='band-link'>??? 26/8 @ lazybones marrickville</a>
+                <a href="https://moshtix.com.au/v2/event/to-be-continued-anime-jpop-band-night/170726" target="_blank" className='band-link'>to be continued: anime & jpop band night 3/10 @ lazybones marrickville</a>
                 <a href="https://www.instagram.com/wasabigalaxyband/" target="_blank" className='band-link'>??? 30/11 @ ???</a>
             </div>
             <a onClick={() => (djDisplay) == 'none' ? changeDjDisplay('flex') : changeDjDisplay('none')} className="dj-expand-link">
