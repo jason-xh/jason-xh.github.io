@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.2282bc9f.css",
-    "main.js": "/static/js/main.e5b6f1a9.js",
+    "main.css": "/static/css/main.eb31e3b0.css",
+    "main.js": "/static/js/main.d6b4698b.js",
     "static/js/488.275c2ca8.chunk.js": "/static/js/488.275c2ca8.chunk.js",
     "reactPlayerYouTube.js": "/static/js/reactPlayerYouTube.05f73a08.chunk.js",
     "reactPlayerSoundCloud.js": "/static/js/reactPlayerSoundCloud.3b4c71f9.chunk.js",
@@ -22,8 +22,8 @@
     "static/media/kingdomhearts.gif": "/static/media/kingdomhearts.64e5410695b331f2cbe2.gif",
     "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/index.html",
-    "main.2282bc9f.css.map": "/static/css/main.2282bc9f.css.map",
-    "main.e5b6f1a9.js.map": "/static/js/main.e5b6f1a9.js.map",
+    "main.eb31e3b0.css.map": "/static/css/main.eb31e3b0.css.map",
+    "main.d6b4698b.js.map": "/static/js/main.d6b4698b.js.map",
     "488.275c2ca8.chunk.js.map": "/static/js/488.275c2ca8.chunk.js.map",
     "reactPlayerYouTube.05f73a08.chunk.js.map": "/static/js/reactPlayerYouTube.05f73a08.chunk.js.map",
     "reactPlayerSoundCloud.3b4c71f9.chunk.js.map": "/static/js/reactPlayerSoundCloud.3b4c71f9.chunk.js.map",
@@ -41,7 +41,7 @@
     "reactPlayerPreview.3d8d8984.chunk.js.map": "/static/js/reactPlayerPreview.3d8d8984.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.2282bc9f.css",
-    "static/js/main.e5b6f1a9.js"
+    "static/css/main.eb31e3b0.css",
+    "static/js/main.d6b4698b.js"
   ]
 }
