@@ -5,50 +5,67 @@
     gap: 25px;
     margin-top: 60px;
     margin-bottom: 50px;
-    /* align-content: center; */
-    /* text-align: center; */
-    /* background-color: rgb(202, 202, 202); */
+    width: 100%;
+}
+
+.links-wrapper p {
+    margin: 0;
+}
+
+.link-btn,
+.band-expand-link,
+.dj-expand-link {
+    display: block;
+    width: 100%;
+    max-width: 520px;
+    text-align: left;
+    padding: 10px 16px;
 }
 
 .link-btn {
-    display: flex;
     color: rgb(22, 29, 255);
-    /* scale: 0.5; */
 }
 
-.band-expand-link {
-    color: rgb(22, 29, 255);
-    cursor: pointer;
-    text-decoration: underline;
-}
+.band-expand-link,
 .dj-expand-link {
     color: rgb(22, 29, 255);
     cursor: pointer;
     text-decoration: underline;
 }
 
-.band-links-wrapper {
-    display: flex;
-    flex-direction: column;
-    gap: 5px;
-    margin-left: 100px;
-}
+.band-links-wrapper,
 .dj-links-wrapper {
     display: flex;
     flex-direction: column;
-    gap: 5px;
-    margin-left: 100px;
+    gap: 10px;
+    width: 100%;
+    max-width: 520px;
+    margin-left: 0;
 }
 
-.band-link {
-    color: rgb(22, 29, 255);
-    cursor: pointer;
-    text-decoration: underline;
-}
+.band-link,
 .dj-link {
+    display: block;
     color: rgb(22, 29, 255);
     cursor: pointer;
     text-decoration: underline;
+    line-height: 1.5;
+    padding: 10px 16px;
+    /* keep spacing without separators */
+    word-break: break-word;
+    transition: background-color 0.2s ease;
+}
+
+.band-link:hover,
+.dj-link:hover {
+    background-color: rgba(255, 255, 255, 0.05);
+}
+
+@media (min-width: 768px) {
+    .band-links-wrapper,
+    .dj-links-wrapper {
+        margin-left: 100px;
+    }
 }
 
 .test-links {
